@@ -7,3 +7,4 @@ During normal conditions in the Pacific ocean, trade winds blow west along the e
 We will use the el ninõ database to try to infer the frequency of this phenomenon. Observation of the time series anomaly fluctuation, the idea is to build and general overview, to extract pieces of information. To do that, we need to apply some methods in python language.
 
 Questions and conclusions are in Python-file.
+Added another line to REAMD.md
